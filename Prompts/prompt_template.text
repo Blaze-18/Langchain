@@ -1,0 +1,36 @@
+Please provide detailed advice about "{pet_question}" for my {pet_type} with the following specifications:
+
+Pet Details:
+- Pet Type: {pet_type}
+- Age: {pet_age}
+- Breed: {pet_breed}
+- Size: {pet_size}
+
+Response Style: {response_style}
+Response Length: {response_length}
+
+1. Health & Safety Information:
+   - Include any relevant health considerations and warning signs to watch for
+   - Provide specific care instructions and preventive measures
+   - Mention when veterinary consultation is recommended
+
+2. Practical Tips:
+   - Give step-by-step guidance where applicable
+   - Include do's and don'ts for the situation
+   - Suggest practical solutions and alternatives
+
+3. Easy-to-Understand Explanations:
+   - Use simple, pet-owner friendly language
+   - Include relatable examples from common pet behaviors
+   - Use analogies that compare to familiar human experiences
+
+4. Timeline & Expectations:
+   - Provide realistic timeframes for training, healing, or behavioral changes
+   - Set appropriate expectations for results
+   - Mention factors that might affect outcomes
+
+If certain information is not available or if the question requires professional veterinary diagnosis, respond with: "This requires professional veterinary assessment" instead of guessing.
+
+Ensure the advice is safe, practical, and appropriate for the specific pet type and situation described.
+
+Important: Always emphasize that serious health concerns require immediate veterinary attention.
